@@ -2,6 +2,7 @@ import java.util.Scanner;
 /**
  * controller
  */
+@Controller
 public class controller {
     static User user = new User();
     public static void main(String[] args) {
